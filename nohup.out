@@ -9514,3 +9514,382 @@ saving outputs/geoTwitter20-03-21.zip.country
 2023-02-23 10:22:02.404890 /data/Twitter dataset/geoTwitter20-04-04.zip geoTwitter20-04-04/geoTwitter20-04-04_23:00
 saving outputs/geoTwitter20-04-04.zip.lang
 saving outputs/geoTwitter20-04-04.zip.country
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:238: RuntimeWarning: Glyph 53076 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:238: RuntimeWarning: Glyph 47196 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:238: RuntimeWarning: Glyph 45208 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:238: RuntimeWarning: Glyph 48148 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:238: RuntimeWarning: Glyph 51060 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:238: RuntimeWarning: Glyph 47084 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:238: RuntimeWarning: Glyph 49828 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:201: RuntimeWarning: Glyph 53076 missing from current font.
+  font.set_text(s, 0, flags=flags)
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:201: RuntimeWarning: Glyph 47196 missing from current font.
+  font.set_text(s, 0, flags=flags)
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:201: RuntimeWarning: Glyph 45208 missing from current font.
+  font.set_text(s, 0, flags=flags)
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:201: RuntimeWarning: Glyph 48148 missing from current font.
+  font.set_text(s, 0, flags=flags)
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:201: RuntimeWarning: Glyph 51060 missing from current font.
+  font.set_text(s, 0, flags=flags)
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:201: RuntimeWarning: Glyph 47084 missing from current font.
+  font.set_text(s, 0, flags=flags)
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:201: RuntimeWarning: Glyph 49828 missing from current font.
+  font.set_text(s, 0, flags=flags)
+ko : 288
+en : 15
+und : 10
+in : 5
+ja : 2
+tr : 1
+tl : 1
+fi : 1
+es : 1
+['es', 'fi', 'tl', 'tr', 'ja', 'in', 'und', 'en', 'ko'] [1, 1, 1, 1, 2, 5, 10, 15, 288]
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:238: RuntimeWarning: Glyph 53076 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:238: RuntimeWarning: Glyph 47196 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:238: RuntimeWarning: Glyph 45208 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:238: RuntimeWarning: Glyph 48148 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:238: RuntimeWarning: Glyph 51060 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:238: RuntimeWarning: Glyph 47084 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:238: RuntimeWarning: Glyph 49828 missing from current font.
+  font.set_text(s, 0.0, flags=flags)
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:201: RuntimeWarning: Glyph 53076 missing from current font.
+  font.set_text(s, 0, flags=flags)
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:201: RuntimeWarning: Glyph 47196 missing from current font.
+  font.set_text(s, 0, flags=flags)
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:201: RuntimeWarning: Glyph 45208 missing from current font.
+  font.set_text(s, 0, flags=flags)
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:201: RuntimeWarning: Glyph 48148 missing from current font.
+  font.set_text(s, 0, flags=flags)
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:201: RuntimeWarning: Glyph 51060 missing from current font.
+  font.set_text(s, 0, flags=flags)
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:201: RuntimeWarning: Glyph 47084 missing from current font.
+  font.set_text(s, 0, flags=flags)
+/home/nvillalba/.local/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py:201: RuntimeWarning: Glyph 49828 missing from current font.
+  font.set_text(s, 0, flags=flags)
+KR : 284
+HK : 6
+ES : 5
+US : 4
+CN : 4
+UZ : 3
+TW : 3
+CA : 3
+KE : 2
+AU : 2
+VN : 1
+RU : 1
+MY : 1
+LK : 1
+JP : 1
+CZ : 1
+CO : 1
+AE : 1
+['AU', 'KE', 'CA', 'TW', 'UZ', 'CN', 'US', 'ES', 'HK', 'KR'] [2, 2, 3, 3, 3, 4, 4, 5, 6, 284]
+en : 422394
+es : 137714
+und : 103249
+it : 29812
+pt : 28783
+fr : 26349
+tr : 18167
+hi : 15943
+de : 12156
+nl : 9089
+in : 8344
+ca : 4172
+tl : 3271
+ar : 2762
+ja : 2518
+ur : 2177
+mr : 1590
+et : 1175
+ta : 1154
+pl : 1089
+ht : 1034
+ro : 762
+zh : 757
+ru : 690
+th : 601
+gu : 573
+da : 526
+sv : 502
+fi : 500
+el : 493
+cy : 384
+lt : 375
+ne : 353
+no : 327
+bn : 324
+eu : 303
+fa : 263
+cs : 249
+si : 220
+sl : 194
+te : 186
+kn : 160
+hu : 131
+or : 101
+ko : 91
+lv : 88
+iw : 82
+ml : 75
+vi : 66
+pa : 51
+is : 47
+uk : 44
+sd : 39
+am : 35
+bg : 23
+sr : 22
+ckb : 20
+ps : 18
+dv : 7
+hy : 6
+ka : 5
+my : 3
+lo : 2
+km : 1
+['nl', 'de', 'hi', 'tr', 'fr', 'pt', 'it', 'und', 'es', 'en'] [9089, 12156, 15943, 18167, 26349, 28783, 29812, 103249, 137714, 422394]
+US : 225402
+IN : 89063
+GB : 66803
+ES : 36080
+IT : 35668
+BR : 31637
+AR : 30992
+MX : 24146
+FR : 22562
+TR : 22172
+ZA : 22151
+PK : 15689
+CA : 15638
+CL : 15118
+DE : 14986
+CO : 12163
+AU : 11773
+NL : 10327
+NG : 9459
+EC : 8571
+IE : 7188
+KE : 6332
+ID : 5689
+BE : 4921
+PE : 4917
+JP : 4405
+VE : 3859
+CN : 3742
+PH : 3716
+DO : 3416
+CH : 2893
+AE : 2717
+UY : 2704
+SA : 2686
+GH : 2490
+ : 2406
+MY : 2311
+PL : 2191
+LK : 1878
+TH : 1847
+GT : 1834
+PA : 1833
+PY : 1730
+AT : 1528
+UG : 1299
+GR : 1183
+BO : 1135
+LB : 1100
+IL : 1100
+BD : 1046
+NZ : 1015
+CD : 1001
+PT : 974
+SG : 965
+EG : 962
+SE : 950
+YE : 947
+HK : 942
+NP : 854
+RU : 842
+DK : 838
+QA : 808
+KW : 792
+DZ : 781
+RW : 779
+SN : 717
+KR : 710
+IR : 665
+IQ : 641
+TZ : 623
+TW : 585
+MA : 579
+SV : 549
+NI : 549
+OM : 544
+HN : 542
+CR : 515
+FI : 509
+MQ : 498
+RS : 495
+BF : 438
+MV : 435
+NO : 428
+CY : 416
+HT : 390
+VN : 383
+JM : 340
+CI : 335
+CZ : 330
+HR : 327
+JO : 314
+CM : 300
+BW : 299
+RO : 296
+NA : 295
+TN : 290
+BA : 278
+AZ : 278
+AF : 271
+CU : 266
+UA : 262
+SO : 260
+AD : 255
+HU : 250
+ZW : 233
+BH : 226
+SI : 213
+XK : 202
+MT : 192
+ET : 183
+GN : 165
+ZM : 151
+LU : 141
+GE : 135
+TT : 130
+KZ : 122
+RE : 121
+MM : 120
+No Country Provided : 118
+GP : 112
+LY : 108
+MW : 98
+MU : 95
+BG : 93
+AL : 92
+ME : 89
+LT : 89
+MN : 88
+IS : 88
+ML : 87
+SK : 82
+SZ : 81
+TD : 79
+CG : 79
+SL : 76
+KH : 76
+MK : 75
+SR : 69
+AO : 69
+LS : 67
+BB : 67
+DJ : 63
+BJ : 63
+GM : 62
+NE : 61
+MZ : 61
+PR : 60
+IM : 59
+BM : 59
+VU : 58
+BS : 57
+TG : 55
+VA : 54
+GA : 54
+SY : 51
+BY : 51
+AM : 46
+PG : 45
+MC : 43
+BI : 43
+MO : 42
+LI : 42
+LV : 41
+EE : 40
+GF : 37
+KG : 36
+NC : 34
+GI : 32
+KY : 31
+UZ : 28
+BN : 24
+MG : 23
+GU : 22
+BZ : 22
+LR : 21
+AW : 21
+MD : 20
+PF : 19
+MR : 19
+LC : 17
+AG : 17
+GD : 16
+CF : 16
+BQ : 16
+TC : 14
+SC : 14
+LA : 14
+YT : 13
+GY : 13
+DM : 12
+SX : 10
+GL : 10
+CV : 10
+VI : 9
+VG : 9
+SM : 9
+CW : 9
+GQ : 8
+FJ : 8
+BT : 8
+WS : 6
+MP : 6
+MF : 6
+AS : 6
+TO : 5
+KP : 4
+KM : 4
+JE : 4
+TM : 3
+TL : 3
+SD : 3
+GW : 3
+VC : 2
+TJ : 2
+SB : 2
+MH : 2
+KN : 2
+FO : 2
+AX : 2
+UM : 1
+TF : 1
+PM : 1
+FM : 1
+FK : 1
+ER : 1
+CX : 1
+AQ : 1
+AI : 1
+['TR', 'FR', 'MX', 'AR', 'BR', 'IT', 'ES', 'GB', 'IN', 'US'] [22172, 22562, 24146, 30992, 31637, 35668, 36080, 66803, 89063, 225402]

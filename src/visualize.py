@@ -27,26 +27,34 @@ if args.percent:
 # print the count values
 items = sorted(counts[args.key].items(), key=lambda item: (item[1],item[0]), reverse=True)
 
-countries = []
+series = []
 values = []
 
 for k,v in items:
-    countries.append(k)
+    series.append(k)
     values.append(v)
     print(k,':',v)
 
 fig = plt.figure(figsize = (10, 5))
 
-first_10c = countries[:10]
+first_10s = series[:10]
 first_10v = values[:10]
-print(first_10c, first_10v)
 
+first_10s.reverse()
+first_10v.reverse()
+
+print(first_10s, first_10v)
 
 # creating the bar plot
-plt.bar(first_10c, first_10v, color = 'maroon', width = 0.4)
- 
-plt.xlabel("Countries")
-plt.ylabel("No. of tweets with #coronavirus")
-plt.title("#coronavirus tweets in different countries")
-plt.savefig('tweets_graph.png')
-plt.show()
+plt.bar(first_10s, first_10v, color = 'maroon', width = 0.4)
+
+xLab = ""
+if args.input_path == "reduced.lang":
+    xLab = "Languages"
+else:
+    xLab = "Countries"
+
+plt.xlabel(xLab)
+plt.ylabel("No. of tweets with " + args.key)
+plt.title(args.key + " tweets in different " + xLab)
+plt.savefig("./graphs/" + args.input_path + args.key + ".png")
